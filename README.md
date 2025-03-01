@@ -12,7 +12,7 @@
 
 ### *🌠 Featured Projects*
 
-🔹 *[Customer Behavior Prediction](https://github.com/indrachk/Customer-Behavior-Prediction)* 🤖  
+🔹 *[Customer Behavior Prediction](https://github.com/Abhitadavarthy/Customer-Retention-Analysis)* 🤖  
 &nbsp;&nbsp;&nbsp;&nbsp;Built *92% accurate models* for predicting customer engagement and retention.  
 
 🔹 *[Sales and Revenue Analysis](https://github.com/indrachk/sales-revenue-analysis)* 📈  
