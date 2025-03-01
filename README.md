@@ -37,6 +37,6 @@
 ### *🌎 Let's Connect & Explore Together!*
 
 📫 *Email:* [abhitadavarthy@gmail.com](mailto:abhitadavarthy@gmail.com)  
-🐙 *GitHub:* [indrachk](https://github.com/abhitadavarthy)  
+🐙 *GitHub:* [Abhitadavarthy](https://github.com/abhitadavarthy)  
 
 🚀 *Let's Builddd beyond infinity!* 🌌✨
