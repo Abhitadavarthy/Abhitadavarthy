@@ -15,7 +15,7 @@
 🔹 *[Customer Behavior Prediction](https://github.com/Abhitadavarthy/Customer-Retention-Analysis)* 🤖  
 &nbsp;&nbsp;&nbsp;&nbsp;Built *92% accurate models* for predicting customer engagement and retention.  
 
-🔹 *[Sales and Revenue Analysis](https://github.com/indrachk/sales-revenue-analysis)* 📈  
+🔹 *[Sales and Revenue Analysis](https://github.com/Abhitadavarthy/Sales-and-Revenue-Analysis)* 📈  
 &nbsp;&nbsp;&nbsp;&nbsp;Optimized revenue tracking for *50,000+ sales records* using Power BI and SQL.  
 
 ---
@@ -25,8 +25,6 @@
 💡 *Random Dev Quote:*  
 "Without data, you're just another person with an opinion." 📊
 
-📊 *GitHub Activity Graph:*  
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Abhitadavrthy&theme=react-dark&hide_border=true)
 
 🎶 *Inspirational Tech Song:*  
 "🎧 Code like a champion, debug like a warrior! — Inspired by 'Harder, Better, Faster, Stronger' by Daft Punk"
